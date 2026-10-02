@@ -1,1 +1,20 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSG Ventas</title>
+</head>
+<body>
+  <h1>RSG Ventas</h1>
+  <h2>Página oficial</h2>
+  <p>Donde encontrarás nuestro catálogo y podrás realizar consultas.</p>
 
+  <h3>Productos</h3>
+  <p>Recuerdos del Papa León XIV</p>
+  <p>Medallas · Crucifijos · Llaveros · Rosarios · Estampitas · Souvenirs</p>
+
+  <h3>Consultas</h3>
+  <p>Próximamente agregaremos nuestros medios de contacto.</p>
+</body>
+</html>
